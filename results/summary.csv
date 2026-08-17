@@ -1,0 +1,4 @@
+feature set,n features,mean acc,std,0HP,1HP
+time only,9,1.0,0.0,1.0,1.0
+frequency only,7,1.0,0.0,1.0,1.0
+both,16,1.0,0.0,1.0,1.0
