@@ -235,6 +235,9 @@ bearing-fault-diagnosis/
 ├── results/
 ├── data/                   # not tracked; see data/README.md
 
+
+'''
+
 ## Limitations
 
 - Only two motor loads (0 and 1 HP) were used. Four would strengthen the cross-load result.
@@ -245,6 +248,8 @@ bearing-fault-diagnosis/
 - Noise is additive white Gaussian. Real interference is often narrowband or impulsive, which
   would likely affect the two feature families differently.
 
+  
+'''
 ## References
 
 1. Case Western Reserve University Bearing Data Center.
