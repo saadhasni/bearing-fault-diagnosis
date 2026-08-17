@@ -234,21 +234,6 @@ bearing-fault-diagnosis/
 │   └── plots.py            # generates all figures
 ├── results/
 ├── data/                   # not tracked; see data/README.md
-└── requirements.txt
-```
-
-## Running it
-
-```bash
-pip install -r requirements.txt
-python src/main.py             # protocol comparison
-python src/run_robustness.py   # noise and window sweeps
-python src/plots.py            # figures into results/
-```
-
-Runs on CPU in a few minutes. No GPU required.
-
----
 
 ## Limitations
 
